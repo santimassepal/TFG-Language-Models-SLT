@@ -1,0 +1,13 @@
+Hi, I'm going to provide you with English Sign Language Glosses. Each line break indicates the end of the previous sentence and the start of the new one I want you to translate each one of them to spoken English INDIVIDUALLY! Don't add the original glosses nor tags or anything, just the translations, cause it's for a csv file of a single column which must contain the translation ONLY. 
+
+My input will follow this structure: 
+
+slg gloss1
+slg gloss2
+
+your output should be as follows:
+
+translation1
+translation2
+
+That's the only thing I want, you won't receive further instructions:
